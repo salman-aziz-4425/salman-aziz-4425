@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Salman Aziz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=I'm+Salman+Aziz.;I'm+a+Full+Stack+Web+Developer.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=I'm+Salman+Aziz.;I'm+a+Full+Stack+Developer.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
   <img align="right" alt="GIF" src="https://github.com/salman-aziz-4425/salman-aziz-4425/blob/main/code.gif?raw=true" width="500" height="320" />
   
