@@ -15,23 +15,6 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
   <img src="https://profile-counter.glitch.me/salman-aziz-4425/count.svg?"  />
 </p>
 
-### 📊 GitHub Stats:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" alt="Salman Aziz GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/salman-aziz-4425?cardType=github&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-aziz-4425&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-aziz-4425&hide_border=true" />
-</details>
----
-
 <!-- Link anchors -->
 
 [banner-img]: https://github.com/salman-aziz-4425/salman-aziz-4425/blob/main/GitHub%20Banner.png
