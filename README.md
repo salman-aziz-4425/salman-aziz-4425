@@ -40,6 +40,10 @@
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](#)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/jenkins-%23430098.svg?style=for-the-badge&logo=Jenkins&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/go-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)](#)
+
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=salman-aziz-4425&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
