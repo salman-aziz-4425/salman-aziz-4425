@@ -32,6 +32,8 @@
 [![Hapi.js](https://img.shields.io/badge/hapi.js-%23ED2244.svg?style=for-the-badge&logo=hapi&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/fastapi-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Langchain](https://img.shields.io/badge/Langchain-%23FFD43B.svg?style=for-the-badge&logo=langchain&logoColor=black)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 ## Databases:
 [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -43,6 +45,7 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](#)
