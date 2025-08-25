@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer working remotely</h3>
 
 # 💫 About Me:
-🔭 I’m currently working with Full Stack Dev.<br>💬 I'm curious about technology<br>📫 You can reach me salmanaziz216@gmail.com<br>⚡ Fun fact I'm a quick learner
+🔭 I’m currently working with Full Stack Dev.<br>💬 I'm curious about technology<br>📫 You can reach me salmanaziz216@gmail.com<br>⚡ I'm a quick learner
 
 
 ## 🌐 Socials:
