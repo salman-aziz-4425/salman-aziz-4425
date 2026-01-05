@@ -1,2 +1,13 @@
-- name: snkgen
-  uses: isitreallyalive/snkgen@v3.3.0
+name: SNK Generation Workflow 
+on:
+  push:                 
+    branches:
+      - main
+jobs:              
+  generate-snk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Generate SNK
+        uses: isitreallyalive/snkgen@v3.3.0
