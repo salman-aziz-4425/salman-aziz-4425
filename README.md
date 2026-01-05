@@ -62,15 +62,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=salman-aziz-4425&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salman-aziz-4425/salman-aziz-4425/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🌐 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salman-aziz-4425&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="visitor count" />
