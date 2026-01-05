@@ -1,13 +1,16 @@
-name: SNK Generation Workflow 
+name: SNK Generation
 on:
-  push:                 
+  push:
     branches:
       - main
-jobs:              
+jobs:
   generate-snk:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Generate SNK
         uses: isitreallyalive/snkgen@v3.3.0
+        with:
+          github_user_name: 'salman-aziz-4425'
