@@ -49,18 +49,18 @@
 ---
 
 ## 📌 Highlights
-<p align="center">
+<!-- <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=salman-aziz-4425&show_icons=true&rank_icon=github&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-aziz-4425&layout=compact&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=salman-aziz-4425&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=salman-aziz-4425&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+</p> -->
 
 ## 🌐 Visitor Count
 <p align="center">
