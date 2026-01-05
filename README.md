@@ -8,8 +8,6 @@
 - 💬 Curious about technology, AI, and modern dev tools  
 - 📫 Reach me: [salmanaziz216@gmail.com](mailto:salmanaziz216@gmail.com)  
 - ⚡ Quick learner & problem solver  
-- 🌱 Exploring LangGraph, Vector DBs, and Graph DBs  
-
 ---
 
 ## 🌐 Connect with Me
