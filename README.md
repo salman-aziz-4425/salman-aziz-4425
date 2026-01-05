@@ -67,20 +67,11 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-430098?style=for-the-badge&logo=Jenkins&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 
----
-
-# 📊 GitHub Stats
-
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman-aziz-4425&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salman-aziz-4425&theme=dark)
-
----
 
 # ⚡ Visitor Count
-[![](https://visitcount.itsvg.in/api?id=salmangujjar-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=salman-aziz-4425&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count" />
+</p>
 
 # 🏅 Badges
 [![Holopin badges](https://holopin.me/salmanaziz4425)](https://holopin.io/@salmanaziz4425)
