@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216655856-f66d0429-8e8b-4d6b-9fd1-2f3f83b5dfcd.gif" width="700" />
 </p>
 
-## 💫 About Me (in short)
+## 💫 About Me
 - 🔭 Full Stack Developer focused on **shipping reliable products**
 - 🤖 Curious about **AI, LLMs, automation, and modern dev tooling**
 - ⚡ Quick learner • Problem solver • Remote-ready
