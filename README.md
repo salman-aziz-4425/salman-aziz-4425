@@ -29,7 +29,7 @@
 ## 💫 About Me
 - 🔭 Full Stack Developer focused on **shipping reliable products**
 - 🤖 Curious about **AI, LLMs, automation, and modern dev tooling**
-- ⚡ Quick learner • Problem solver • Remote-ready
+- ⚡ Quick learner • Problem solver
 
 ---
 
